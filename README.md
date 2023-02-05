@@ -18,7 +18,8 @@ Clone down this repository. You will need node.js and git installed globally on 
 
 ## Installation and Setup.
   1. Installation: npm install
-  2. Start server: node server.js
+  2. Add .env file in the directory with the .env variables shown in .env.example file.
+  3. Start server: node server.js
   
 Runs the app in the development mode on PORT 5000.
 
